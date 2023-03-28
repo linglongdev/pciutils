@@ -20,7 +20,6 @@ source:
   version: master
   commit: 7e191302757678dd505030dbaada3ff3708052d0
   patch:
-    #- patches/01-Makefile.patch
   - 00-configure.patch
   - 00-configure-hurd.patch
   - 04-update-pciids.sh.patch
